@@ -1,6 +1,8 @@
 # aws-serverless-data-pipeline-by-terraform
 ![GitHub](https://img.shields.io/github/license/gnokoheat/aws-serverless-data-pipeline-by-terraform) ![GitHub top language](https://img.shields.io/github/languages/top/gnokoheat/aws-serverless-data-pipeline-by-terraform) ![GitHub repo size](https://img.shields.io/github/repo-size/gnokoheat/aws-serverless-data-pipeline-by-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/gnokoheat/aws-serverless-data-pipeline-by-terraform)
 
+![](data-pipeline.png)
+
 **AWS Serverless Data Pipeline example by Terraform**
 
 - AWS Serverless Data Pipeline by Terraform ( API Gateway + Lambda + Kinesis + S3 + Athena )
